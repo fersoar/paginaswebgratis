@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /cp_consultados.php
+
+Sitemap: https://yanolavo.com/sitemap.xml
